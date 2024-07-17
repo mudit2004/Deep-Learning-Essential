@@ -88,14 +88,6 @@ We experimented with the following learning rates for the CNN model:
 
 For each learning rate, we trained the model for 10 epochs and recorded the training and validation loss and accuracy. We also calculated the accuracy, precision, recall, and F1 score on the test set.
 
-### Training and Validation Loss
-
-![Training and Validation Loss for Different Learning Rates](path/to/loss_plot.png)
-
-### Training and Validation Accuracy
-
-![Training and Validation Accuracy for Different Learning Rates](path/to/accuracy_plot.png)
-
 ## Results
 
 The results of the experiments with different learning rates are summarized below:
